@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Instagran: https://www.instagram.com/osvaldo_holanda/
+Freecodecamp: https://www.freecodecamp.org/osvaldolimah
+
 <!--
 **osvaldolimah/osvaldolimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
