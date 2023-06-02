@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Instagran: https://www.instagram.com/osvaldo_holanda/
+Instagram: https://www.instagram.com/osvaldo_holanda/ <br>
 Freecodecamp: https://www.freecodecamp.org/osvaldolimah
 
 <!--
