@@ -10,9 +10,9 @@ I'm a technology enthusiast, excited to learn and improve my skills as a web dev
 
 I'm open to contributions and suggestions for improvements to the projects. Feel free to open an issue if you encounter any problems or to suggest new features.
 
-![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) JavaScript, ![HTML](https://img.icons8.com/color/96/000000/html-5.png) HTML, ![CSS](https://img.icons8.com/color/96/000000/css3.png) CSS
-![Node.js](https://img.icons8.com/color/96/000000/nodejs.png) Node.js
-![React](https://img.icons8.com/color/96/000000/react-native.png) React
+![JavaScript](https://img.icons8.com/color/96/000000/javascript.png)  ![HTML](https://img.icons8.com/color/96/000000/html-5.png) ![CSS](https://img.icons8.com/color/96/000000/css3.png) 
+![Node.js](https://img.icons8.com/color/96/000000/nodejs.png)
+![React](https://img.icons8.com/color/96/000000/react-native.png)
 
 
 
