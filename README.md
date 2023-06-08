@@ -1,7 +1,8 @@
-### Hi there 👋
+Welcome to my GitHub! 👋
+Hello! I'm Osvaldo Holanda, and this is my GitHub repository, where I share my projects and learnings from the Web Fullstack course at Digital College. Here you will find a variety of web development projects, from front-end to back-end.
 
-Instagram: https://www.instagram.com/osvaldo_holanda/ <br>
-Freecodecamp: https://www.freecodecamp.org/osvaldolimah
+About Me 🧑‍💻
+I'm a technology enthusiast, excited to learn and improve my skills as a web developer. I'm currently focused on becoming a fullstack developer, with knowledge in HTML, CSS, JavaScript, React, Node.js, and SQL databases.
 
 <!--
 **osvaldolimah/osvaldolimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
