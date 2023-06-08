@@ -10,6 +10,13 @@ I'm a technology enthusiast, excited to learn and improve my skills as a web dev
 
 I'm open to contributions and suggestions for improvements to the projects. Feel free to open an issue if you encounter any problems or to suggest new features.
 
+![JavaScript](https://img.icons8.com/color/96/000000/javascript.png) JavaScript, ![HTML](https://img.icons8.com/color/96/000000/html-5.png) HTML, ![CSS](https://img.icons8.com/color/96/000000/css3.png) CSS
+![Node.js](https://img.icons8.com/color/96/000000/nodejs.png) Node.js
+![React](https://img.icons8.com/color/96/000000/react-native.png) React
+
+
+
+
 <!--
 **osvaldolimah/osvaldolimah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
